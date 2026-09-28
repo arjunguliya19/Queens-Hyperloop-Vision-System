@@ -1,0 +1,4 @@
+object_detection/YOLO-3-OpenCV/yolo-coco-data/yolov4.weights filter=lfs diff=lfs merge=lfs -text
+object_detection/YOLO-3-OpenCV/yolo-coco-data/yolov3.weights filter=lfs diff=lfs merge=lfs -text
+object_detection/YOLO-3-OpenCV/yolo-coco-data/yolov4.weights filter=lfs diff=lfs merge=lfs -text
+object_detection/YOLO-3-OpenCV/yolo-coco-data/yolov3.weights filter=lfs diff=lfs merge=lfs -text

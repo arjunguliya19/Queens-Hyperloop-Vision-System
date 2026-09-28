@@ -1,0 +1,8 @@
+# Local Python environment
+.conda/
+__pycache__/
+*.pyc
+
+# IDE and notebook files
+.idea/
+.ipynb_checkpoints/

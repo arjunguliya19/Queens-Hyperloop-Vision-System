@@ -1,0 +1,5 @@
+classes = 4
+train = C:/Users/aarav/Object Detection/Labelled-Custom/train.txt
+valid = C:/Users/aarav/Object Detection/Labelled-Custom/test.txt
+names = C:/Users/aarav/Object Detection/Labelled-Custom/classes.names
+backup = backup

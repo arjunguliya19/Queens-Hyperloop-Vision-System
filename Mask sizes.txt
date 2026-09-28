@@ -1,0 +1,21 @@
+Test 3 - 
+mask -> [(225, height), (460, height), (350, 100)]
+detection_range = (15/40)
+
+blur_amount = 3
+canny_threshold_1 = 50
+canny_threshold_2 = 150
+
+houghlines_threshold = 100
+
+
+Test 4 - 
+
+mask -> [(0, 325), (130, 360), (370, 192), (500, 360), (640, 325), (370, 145)]
+detection_range = (1/2)
+
+blur_amount = 2
+canny_threshold_1 = 50
+canny_threshold_2 = 150
+
+houghlines_threshold = 150

@@ -1,0 +1,6 @@
+C:/Users/aarav/Object Detection/Labelled-Custom/001bdbbf7a3ac993.jpg
+C:/Users/aarav/Object Detection/Labelled-Custom/002b4b98029c95ca.jpg
+C:/Users/aarav/Object Detection/Labelled-Custom/00ff03ca668da67b.jpg
+C:/Users/aarav/Object Detection/Labelled-Custom/013db604370aa36c.jpg
+C:/Users/aarav/Object Detection/Labelled-Custom/05246d7cf19845c4.jpg
+C:/Users/aarav/Object Detection/Labelled-Custom/0f28faa981273c1a.jpg
